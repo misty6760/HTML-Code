@@ -1,0 +1,6 @@
+.list-style-img {
+  list-style-image: url('../images/check.png');
+  width: 10px;
+  height: 10px;
+}
+

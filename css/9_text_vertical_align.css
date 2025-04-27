@@ -1,0 +1,13 @@
+h1 {
+  width:100%;
+  height:100px;
+  background:#222;
+  color:rgb(255,255,255);
+  text-align: center;
+}
+
+.heading {
+  line-height: 100px;
+}
+
+

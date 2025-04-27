@@ -1,0 +1,12 @@
+p {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:80px;
+  text-shadow:3px 3px 1px #00f;
+}
+.spacing1 {
+  letter-spacing:0.2em;
+}
+.spacing2 {
+  letter-spacing: 0.5em;
+}  
+

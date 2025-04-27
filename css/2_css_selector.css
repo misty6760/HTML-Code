@@ -1,0 +1,15 @@
+* {
+  background-color: black;
+}
+
+h1 {
+  color: red;
+}
+
+.class {
+  color: blue;
+}
+
+#id {
+  color: green;
+}

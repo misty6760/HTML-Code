@@ -1,0 +1,17 @@
+.heading {
+  color:darkred;
+}
+
+.p1{
+  color: #00008b;
+}
+
+.p2 {
+  color: hsl(100, 100%, 20%);
+}
+
+.p3 {
+  color: hsla(183, 100%, 50%, 0.5);
+}
+
+

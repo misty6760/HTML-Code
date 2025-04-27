@@ -1,0 +1,10 @@
+.trans1 {
+  text-transform: capitalize;
+}
+.trans2 {
+  text-transform: uppercase;
+}
+.trans3 {
+  text-transform: lowercase;
+}
+
